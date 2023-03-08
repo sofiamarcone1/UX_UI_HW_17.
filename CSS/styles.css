@@ -24,8 +24,13 @@ ul {
 	margin: 0;
 	padding: 0;
 	align-items: right;
+
 	
 }
+.text h1,.text h2{
+	font-family: 'Roboto', sans-serif;
+}
+
 main1{
 	font-family: 'Roboto', sans-serif;
 	align-items: center;
